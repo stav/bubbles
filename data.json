@@ -1,0 +1,23 @@
+[
+  {
+    "id": "i1",
+    "name": "Steven Almeroth",
+    "value": 100
+  },
+  {
+    "id": "i2",
+    "name": "Zofia Sitarz",
+    "value": 100
+  },
+  {
+    "id": "f1",
+    "link": ["i1", "i2"],
+    "name": "Steven & Zofia",
+    "children": [
+      {
+        "name": "Daniel",
+        "value": 100
+      }
+    ]
+  }
+]
