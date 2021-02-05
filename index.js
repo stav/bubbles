@@ -18,5 +18,5 @@ series.dataFields.children = "children"
 // Add labels
 series.nodes.template.label.text = "({id})\n{name}"
 series.fontSize = 10
-series.minRadius = 15
+series.minRadius = 30
 series.maxRadius = 40
