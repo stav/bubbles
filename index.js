@@ -21,4 +21,4 @@ series.maxLevels = 3
 series.minRadius = 30
 series.maxRadius = 100
 series.nodes.template.expandAll = false
-series.nodes.template.label.text = '{id}\n{name}'
+series.nodes.template.label.text = '{id}\n{name}\n({generation})'

@@ -29,6 +29,7 @@
                                       "id": "BI0033",
                                       "children": [],
                                       "name": "Daniel Vincent Almeroth",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -37,6 +38,7 @@
                                 }
                               ],
                               "name": "Steven Michael Almeroth",
+                              "generation": 4,
                               "value": 20
                             },
                             {
@@ -49,6 +51,7 @@
                                       "id": "BI0072",
                                       "children": [],
                                       "name": "Cullen Michael Karecki",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -57,6 +60,7 @@
                                 }
                               ],
                               "name": "David Richard Almeroth",
+                              "generation": 4,
                               "value": 20
                             }
                           ],
@@ -65,6 +69,7 @@
                         }
                       ],
                       "name": "Peter Jerome Almeroth",
+                      "generation": 3,
                       "value": 20
                     },
                     {
@@ -89,18 +94,21 @@
                                               "id": "BI0091",
                                               "children": [],
                                               "name": "Molly Katherine Ong",
+                                              "generation": 6,
                                               "value": 0
                                             },
                                             {
                                               "id": "BI0092",
                                               "children": [],
                                               "name": "Robert Harrison Ong",
+                                              "generation": 6,
                                               "value": 0
                                             },
                                             {
                                               "id": "BI0093",
                                               "children": [],
                                               "name": "Walker Hartman Ong",
+                                              "generation": 6,
                                               "value": 0
                                             }
                                           ],
@@ -109,6 +117,7 @@
                                         }
                                       ],
                                       "name": "Lindsey Nicole Smith",
+                                      "generation": 5,
                                       "value": 20
                                     },
                                     {
@@ -121,12 +130,14 @@
                                               "id": "BI0087",
                                               "children": [],
                                               "name": "Savannah Rae Smith",
+                                              "generation": 6,
                                               "value": 0
                                             },
                                             {
                                               "id": "BI0096",
                                               "children": [],
                                               "name": "Kyla Grace Smith",
+                                              "generation": 6,
                                               "value": 0
                                             }
                                           ],
@@ -135,6 +146,7 @@
                                         }
                                       ],
                                       "name": "Stephen Kyle Smith",
+                                      "generation": 5,
                                       "value": 20
                                     },
                                     {
@@ -148,20 +160,23 @@
                                         }
                                       ],
                                       "name": "Robert Kevin Smith",
+                                      "generation": 5,
                                       "value": 20
                                     }
                                   ],
-                                  "name": "father + Andrea Almeroth",
+                                  "name": "undefined + Andrea Almeroth",
                                   "value": 60
                                 }
                               ],
                               "name": "Andrea Almeroth",
+                              "generation": 4,
                               "value": 20
                             },
                             {
                               "id": "BI0011",
                               "children": [],
                               "name": "Kevin Almeroth",
+                              "generation": 4,
                               "value": 0
                             }
                           ],
@@ -170,6 +185,7 @@
                         }
                       ],
                       "name": "Robert Henry Almeroth",
+                      "generation": 3,
                       "value": 20
                     },
                     {
@@ -188,6 +204,7 @@
                                       "id": "BI0079",
                                       "children": [],
                                       "name": "Cassandra Lynne Almeroth",
+                                      "generation": 5,
                                       "value": 0
                                     },
                                     {
@@ -200,6 +217,7 @@
                                               "id": "BI0148",
                                               "children": [],
                                               "name": "Harper Jane Almeroth",
+                                              "generation": 6,
                                               "value": 0
                                             }
                                           ],
@@ -208,6 +226,7 @@
                                         }
                                       ],
                                       "name": "James Melvin Almeroth",
+                                      "generation": 5,
                                       "value": 20
                                     }
                                   ],
@@ -216,12 +235,14 @@
                                 }
                               ],
                               "name": "Timothy Ropp",
+                              "generation": 4,
                               "value": 20
                             },
                             {
                               "id": "BI0015",
                               "children": [],
                               "name": "Gregory Ropp",
+                              "generation": 4,
                               "value": 0
                             },
                             {
@@ -234,12 +255,14 @@
                                       "id": "BI0077",
                                       "children": [],
                                       "name": "Casey James Almeroth",
+                                      "generation": 5,
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0078",
                                       "children": [],
                                       "name": "Abby Lynne Almeroth",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -248,6 +271,7 @@
                                 }
                               ],
                               "name": "Kevin Almeroth",
+                              "generation": 4,
                               "value": 20
                             }
                           ],
@@ -256,6 +280,7 @@
                         }
                       ],
                       "name": "Richard D Almeroth",
+                      "generation": 3,
                       "value": 20
                     },
                     {
@@ -274,12 +299,14 @@
                                       "id": "BI0048",
                                       "children": [],
                                       "name": "Cole James Almeroth",
+                                      "generation": 5,
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0049",
                                       "children": [],
                                       "name": "Shelby Almeroth",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -288,12 +315,14 @@
                                 }
                               ],
                               "name": "Loren James Almeroth",
+                              "generation": 4,
                               "value": 20
                             },
                             {
                               "id": "BI0050",
                               "children": [],
                               "name": "Jaime Adeline Almeroth",
+                              "generation": 4,
                               "value": 0
                             }
                           ],
@@ -302,6 +331,7 @@
                         }
                       ],
                       "name": "James Andrew Almeroth",
+                      "generation": 3,
                       "value": 20
                     },
                     {
@@ -320,12 +350,14 @@
                                       "id": "BI0041",
                                       "children": [],
                                       "name": "Morgan Elizabeth Lesiw",
+                                      "generation": 5,
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0042",
                                       "children": [],
                                       "name": "Gavin John Lesiw",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -334,6 +366,7 @@
                                 }
                               ],
                               "name": "Lisa Jill Lamon",
+                              "generation": 4,
                               "value": 20
                             },
                             {
@@ -346,12 +379,14 @@
                                       "id": "BI0038",
                                       "children": [],
                                       "name": "Kyle Meyer Graham",
+                                      "generation": 5,
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0039",
                                       "children": [],
                                       "name": "Haley Marie Graham",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -360,6 +395,7 @@
                                 }
                               ],
                               "name": "Jennifer Marie Lamon",
+                              "generation": 4,
                               "value": 20
                             }
                           ],
@@ -368,6 +404,7 @@
                         }
                       ],
                       "name": "Deborah Almeroth",
+                      "generation": 3,
                       "value": 20
                     }
                   ],
@@ -376,6 +413,7 @@
                 }
               ],
               "name": "Robert Henry Almeroth",
+              "generation": 2,
               "value": 20
             },
             {
@@ -400,12 +438,14 @@
                                       "id": "BI0064",
                                       "children": [],
                                       "name": "Jack Almeroth",
+                                      "generation": 5,
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0065",
                                       "children": [],
                                       "name": "Alex Almeroth",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -414,26 +454,30 @@
                                 }
                               ],
                               "name": "Peter James Almeroth",
+                              "generation": 4,
                               "value": 20
                             },
                             {
                               "id": "BI0066",
                               "children": [],
                               "name": "Beth Almeroth",
+                              "generation": 4,
                               "value": 0
                             },
                             {
                               "id": "BI0067",
                               "children": [],
                               "name": "Danny Almeroth",
+                              "generation": 4,
                               "value": 0
                             }
                           ],
-                          "name": "Peter Jospeh Almeroth + mother",
+                          "name": "Peter Jospeh Almeroth + undefined",
                           "value": 60
                         }
                       ],
                       "name": "Peter Jospeh Almeroth",
+                      "generation": 3,
                       "value": 20
                     },
                     {
@@ -446,12 +490,14 @@
                               "id": "BI0069",
                               "children": [],
                               "name": "Lori",
+                              "generation": 4,
                               "value": 0
                             },
                             {
                               "id": "BI0070",
                               "children": [],
                               "name": "Lisa",
+                              "generation": 4,
                               "value": 0
                             }
                           ],
@@ -460,6 +506,7 @@
                         }
                       ],
                       "name": "Kathryn Almeroth",
+                      "generation": 3,
                       "value": 20
                     }
                   ],
@@ -468,6 +515,7 @@
                 }
               ],
               "name": "Peter James Almeroth",
+              "generation": 2,
               "value": 20
             },
             {
@@ -480,6 +528,7 @@
                       "id": "BI0024",
                       "children": [],
                       "name": "Peter Joseph Almeroth",
+                      "generation": 3,
                       "value": 0
                     },
                     {
@@ -498,6 +547,7 @@
                                       "id": "BI0142",
                                       "children": [],
                                       "name": "Benton John Gilligan",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -506,12 +556,14 @@
                                 }
                               ],
                               "name": "Frances Dwyer O'Donnell",
+                              "generation": 4,
                               "value": 20
                             },
                             {
                               "id": "BI0139",
                               "children": [],
                               "name": "Terrance Charles O'Donnell",
+                              "generation": 4,
                               "value": 0
                             },
                             {
@@ -524,6 +576,7 @@
                                       "id": "BI0144",
                                       "children": [],
                                       "name": "John Richard O'Donnell",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -532,6 +585,7 @@
                                 }
                               ],
                               "name": "Joseph Charles O'Donnell",
+                              "generation": 4,
                               "value": 20
                             }
                           ],
@@ -540,6 +594,7 @@
                         }
                       ],
                       "name": "Jeanne Christine Almeroth",
+                      "generation": 3,
                       "value": 20
                     },
                     {
@@ -552,36 +607,42 @@
                               "id": "BI0116",
                               "children": [],
                               "name": "Mia Kathleen Almeroth",
+                              "generation": 4,
                               "value": 0
                             },
                             {
                               "id": "BI0117",
                               "children": [],
                               "name": "Vincent Michael Almeroth",
+                              "generation": 4,
                               "value": 0
                             },
                             {
                               "id": "BI0118",
                               "children": [],
                               "name": "Charles Jerome Almeroth",
+                              "generation": 4,
                               "value": 0
                             },
                             {
                               "id": "BI0119",
                               "children": [],
                               "name": "Angeline Clare Almeroth",
+                              "generation": 4,
                               "value": 0
                             },
                             {
                               "id": "BI0120",
                               "children": [],
                               "name": "Sophia Marie Almeroth",
+                              "generation": 4,
                               "value": 0
                             },
                             {
                               "id": "BI0121",
                               "children": [],
                               "name": "Vito Salm",
+                              "generation": 4,
                               "value": 0
                             }
                           ],
@@ -590,6 +651,7 @@
                         }
                       ],
                       "name": "David Michael Almeroth",
+                      "generation": 3,
                       "value": 20
                     },
                     {
@@ -608,12 +670,14 @@
                                       "id": "BI0127",
                                       "children": [],
                                       "name": "Charlie Kilmer",
+                                      "generation": 5,
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0128",
                                       "children": [],
                                       "name": "Nick Kilmer",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -622,6 +686,7 @@
                                 }
                               ],
                               "name": "Kevin Charles Kilmer",
+                              "generation": 4,
                               "value": 20
                             },
                             {
@@ -634,18 +699,21 @@
                                       "id": "BI0130",
                                       "children": [],
                                       "name": "Nora Flood",
+                                      "generation": 5,
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0131",
                                       "children": [],
                                       "name": "Brendan Flood",
+                                      "generation": 5,
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0132",
                                       "children": [],
                                       "name": "Kathleen Flood",
+                                      "generation": 5,
                                       "value": 0
                                     }
                                   ],
@@ -654,12 +722,14 @@
                                 }
                               ],
                               "name": "Molly Regan Flood",
+                              "generation": 4,
                               "value": 20
                             },
                             {
                               "id": "BI0125",
                               "children": [],
                               "name": "Brian Thomas Kilmer",
+                              "generation": 4,
                               "value": 0
                             }
                           ],
@@ -668,6 +738,7 @@
                         }
                       ],
                       "name": "Susan Elizabeth Almeroth",
+                      "generation": 3,
                       "value": 20
                     },
                     {
@@ -680,6 +751,7 @@
                               "id": "BI0146",
                               "children": [],
                               "name": "Conor Jerome Almeroth",
+                              "generation": 4,
                               "value": 0
                             }
                           ],
@@ -688,12 +760,14 @@
                         }
                       ],
                       "name": "Christopher Gerard Almeroth",
+                      "generation": 3,
                       "value": 20
                     },
                     {
                       "id": "BI0060",
                       "children": [],
                       "name": "Michael Andrew Almeroth",
+                      "generation": 3,
                       "value": 0
                     }
                   ],
@@ -702,6 +776,7 @@
                 }
               ],
               "name": "Charles Jerome Almeroth",
+              "generation": 2,
               "value": 20
             },
             {
@@ -714,6 +789,7 @@
                       "id": "BI0133",
                       "children": [],
                       "name": "Billy Ryan",
+                      "generation": 3,
                       "value": 0
                     }
                   ],
@@ -722,6 +798,7 @@
                 }
               ],
               "name": "Ann Almeroth",
+              "generation": 2,
               "value": 20
             }
           ],
@@ -730,6 +807,7 @@
         }
       ],
       "name": "Peter James Almeroth",
+      "generation": 1,
       "value": 20
     },
     {
@@ -743,12 +821,14 @@
         }
       ],
       "name": "George Almeroth",
+      "generation": 1,
       "value": 20
     },
     {
       "id": "BI0105",
       "children": [],
       "name": "Leonhard Almeroth",
+      "generation": 1,
       "value": 0
     },
     {
@@ -761,12 +841,14 @@
               "id": "BI0136",
               "children": [],
               "name": "Mary Allmeroth",
+              "generation": 2,
               "value": 0
             },
             {
               "id": "BI0137",
               "children": [],
               "name": "Edith G Almeroth",
+              "generation": 2,
               "value": 0
             }
           ],
@@ -775,24 +857,28 @@
         }
       ],
       "name": "John Allmeroth",
+      "generation": 1,
       "value": 20
     },
     {
       "id": "BI0107",
       "children": [],
       "name": "Elizabeth Almeroth",
+      "generation": 1,
       "value": 0
     },
     {
       "id": "BI0108",
       "children": [],
       "name": "Anna K Almeroth",
+      "generation": 1,
       "value": 0
     },
     {
       "id": "BI0109",
       "children": [],
       "name": "Martha M Almeroth",
+      "generation": 1,
       "value": 0
     }
   ],
