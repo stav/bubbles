@@ -29,18 +29,21 @@
                                       "id": "BI0033",
                                       "children": [],
                                       "name": "Daniel Vincent",
-                                      "fullName": "Daniel Vincent Almeroth",
+                                      "info": "Daniel Vincent Almeroth\nborn: 2019-06-17",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "Steven Michael + Zofia Anna",
+                                  "info": "Steven Michael Almeroth born 1965-12-26\nZofia Anna Sitarz born 1979-05-15\nchildren: 1",
                                   "value": 20
                                 }
                               ],
                               "name": "Steven Michael",
-                              "fullName": "Steven Michael Almeroth",
+                              "info": "Steven Michael Almeroth\nborn: 1965-12-26",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 20
                             },
                             {
@@ -53,28 +56,68 @@
                                       "id": "BI0072",
                                       "children": [],
                                       "name": "Cullen Michael",
-                                      "fullName": "Cullen Michael Karecki",
+                                      "info": "Cullen Michael Karecki\nborn: 1994-11-25",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "David Richard + Cheryl",
+                                  "info": "David Richard Almeroth born 1967-12-29\nCheryl Guminey born undefined\nchildren: 1",
+                                  "value": 20
+                                },
+                                {
+                                  "id": "BF0023",
+                                  "children": [
+                                    {
+                                      "id": "BI0073",
+                                      "children": [
+                                        {
+                                          "id": "BF0024",
+                                          "children": [
+                                            {
+                                              "id": "BI0075",
+                                              "children": [],
+                                              "name": "Jeremy Dwayne",
+                                              "info": "Jeremy Dwayne Powell\nborn: 2013-04-04",
+                                              "generation": 6,
+                                              "color": "#ff4775",
+                                              "value": 0
+                                            }
+                                          ],
+                                          "name": "Ben + Ashley Nicole",
+                                          "info": "Ben Hope born 1992-04-18\nAshley Nicole Powell born 1992-04-09\nchildren: 1",
+                                          "value": 20
+                                        }
+                                      ],
+                                      "name": "Ashley Nicole",
+                                      "info": "Ashley Nicole Powell\nborn: 1992-04-09",
+                                      "generation": 5,
+                                      "color": "#ff7070",
+                                      "value": 20
+                                    }
+                                  ],
+                                  "name": "David Richard + Linda",
+                                  "info": "David Richard Almeroth born 1967-12-29\nLinda Powell born 1965\nchildren: 1",
                                   "value": 20
                                 }
                               ],
                               "name": "David Richard",
-                              "fullName": "David Richard Almeroth",
+                              "info": "David Richard Almeroth\nborn: 1967-12-29",
                               "generation": 4,
-                              "value": 20
+                              "color": "#f58700",
+                              "value": 40
                             }
                           ],
                           "name": "Peter Jerome + Susan Katharine",
+                          "info": "Peter Jerome Almeroth born 1940-02-21\nSusan Katharine Brennan born 1945-11-15\nchildren: 2",
                           "value": 40
                         }
                       ],
                       "name": "Peter Jerome",
-                      "fullName": "Peter Jerome Almeroth",
+                      "info": "Peter Jerome Almeroth\nborn: 1940-02-21",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 20
                     },
                     {
@@ -99,34 +142,39 @@
                                               "id": "BI0091",
                                               "children": [],
                                               "name": "Molly Katherine",
-                                              "fullName": "Molly Katherine Ong",
+                                              "info": "Molly Katherine Ong\nborn: 2013-01-07",
                                               "generation": 6,
+                                              "color": "#ff4775",
                                               "value": 0
                                             },
                                             {
                                               "id": "BI0092",
                                               "children": [],
                                               "name": "Robert Harrison",
-                                              "fullName": "Robert Harrison Ong",
+                                              "info": "Robert Harrison Ong\nborn: 2016-04-28",
                                               "generation": 6,
+                                              "color": "#ff4775",
                                               "value": 0
                                             },
                                             {
                                               "id": "BI0093",
                                               "children": [],
                                               "name": "Walker Hartman",
-                                              "fullName": "Walker Hartman Ong",
+                                              "info": "Walker Hartman Ong\nborn: 2018-12-06",
                                               "generation": 6,
+                                              "color": "#ff4775",
                                               "value": 0
                                             }
                                           ],
                                           "name": "Thuan + Lindsey Nicole",
+                                          "info": "Thuan Ong born undefined\nLindsey Nicole Smith born 1984-11-11\nchildren: 3",
                                           "value": 60
                                         }
                                       ],
                                       "name": "Lindsey Nicole",
-                                      "fullName": "Lindsey Nicole Smith",
+                                      "info": "Lindsey Nicole Smith\nborn: 1984-11-11",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 20
                                     },
                                     {
@@ -139,26 +187,30 @@
                                               "id": "BI0087",
                                               "children": [],
                                               "name": "Savannah Rae",
-                                              "fullName": "Savannah Rae Smith",
+                                              "info": "Savannah Rae Smith\nborn: 2018-11-16",
                                               "generation": 6,
+                                              "color": "#ff4775",
                                               "value": 0
                                             },
                                             {
                                               "id": "BI0096",
                                               "children": [],
                                               "name": "Kyla Grace",
-                                              "fullName": "Kyla Grace Smith",
+                                              "info": "Kyla Grace Smith\nborn: 2015-08-23",
                                               "generation": 6,
+                                              "color": "#ff4775",
                                               "value": 0
                                             }
                                           ],
                                           "name": "Stephen Kyle + Becca",
+                                          "info": "Stephen Kyle Smith born 1985-12-26\nBecca born undefined\nchildren: 2",
                                           "value": 40
                                         }
                                       ],
                                       "name": "Stephen Kyle",
-                                      "fullName": "Stephen Kyle Smith",
+                                      "info": "Stephen Kyle Smith\nborn: 1985-12-26",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 20
                                     },
                                     {
@@ -168,40 +220,64 @@
                                           "id": "BF0034",
                                           "children": [],
                                           "name": "Robert Kevin + Kati",
+                                          "info": "Robert Kevin Smith born 1990-01-16\nKati born undefined\nchildren: 0",
                                           "value": 0
                                         }
                                       ],
                                       "name": "Robert Kevin",
-                                      "fullName": "Robert Kevin Smith",
+                                      "info": "Robert Kevin Smith\nborn: 1990-01-16",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 20
                                     }
                                   ],
                                   "name": "undefined + Andrea",
+                                  "info": "undefined born undefined\nAndrea Almeroth born 1963-01-14\nchildren: 3",
                                   "value": 60
+                                },
+                                {
+                                  "id": "BF0031",
+                                  "children": [
+                                    {
+                                      "id": "BI0088",
+                                      "children": [],
+                                      "name": "Anthony LeRoy",
+                                      "info": "Anthony LeRoy Almeroth\nborn: 2007-02-17",
+                                      "generation": 5,
+                                      "color": "#ff7070",
+                                      "value": 0
+                                    }
+                                  ],
+                                  "name": "undefined + Andrea",
+                                  "info": "undefined born undefined\nAndrea Almeroth born 1963-01-14\nchildren: 1",
+                                  "value": 20
                                 }
                               ],
                               "name": "Andrea",
-                              "fullName": "Andrea Almeroth",
+                              "info": "Andrea Almeroth\nborn: 1963-01-14",
                               "generation": 4,
-                              "value": 20
+                              "color": "#f58700",
+                              "value": 40
                             },
                             {
                               "id": "BI0011",
                               "children": [],
                               "name": "Kevin",
-                              "fullName": "Kevin Almeroth",
+                              "info": "Kevin Almeroth\nborn: 1961-11-24",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             }
                           ],
                           "name": "Robert Henry + Nellie",
+                          "info": "Robert Henry Almeroth born 1938-11-03\nNellie Almeroth born 1941-07-29\nchildren: 2",
                           "value": 40
                         }
                       ],
                       "name": "Robert Henry",
-                      "fullName": "Robert Henry Almeroth",
+                      "info": "Robert Henry Almeroth\nborn: 1938-11-03",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 20
                     },
                     {
@@ -220,8 +296,9 @@
                                       "id": "BI0079",
                                       "children": [],
                                       "name": "Cassandra Lynne",
-                                      "fullName": "Cassandra Lynne Almeroth",
+                                      "info": "Cassandra Lynne Almeroth\nborn: 1984-01-28",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     },
                                     {
@@ -234,36 +311,42 @@
                                               "id": "BI0148",
                                               "children": [],
                                               "name": "Harper Jane",
-                                              "fullName": "Harper Jane Almeroth",
+                                              "info": "Harper Jane Almeroth\nborn: 2019-09-06",
                                               "generation": 6,
+                                              "color": "#ff4775",
                                               "value": 0
                                             }
                                           ],
                                           "name": "James Melvin + Melissa Brook",
+                                          "info": "James Melvin Almeroth born 1993-07-20\nMelissa Brook Finch born 1994-02-04\nchildren: 1",
                                           "value": 20
                                         }
                                       ],
                                       "name": "James Melvin",
-                                      "fullName": "James Melvin Almeroth",
+                                      "info": "James Melvin Almeroth\nborn: 1993-07-20",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 20
                                     }
                                   ],
                                   "name": "Timothy + Mary Jane",
+                                  "info": "Timothy Ropp born 1960-08-16\nMary Jane Bell born undefined\nchildren: 2",
                                   "value": 40
                                 }
                               ],
                               "name": "Timothy",
-                              "fullName": "Timothy Ropp",
+                              "info": "Timothy Ropp\nborn: 1960-08-16",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 20
                             },
                             {
                               "id": "BI0015",
                               "children": [],
                               "name": "Gregory",
-                              "fullName": "Gregory Ropp",
+                              "info": "Gregory Ropp\nborn: 1964-07-07",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             },
                             {
@@ -276,36 +359,42 @@
                                       "id": "BI0077",
                                       "children": [],
                                       "name": "Casey James",
-                                      "fullName": "Casey James Almeroth",
+                                      "info": "Casey James Almeroth\nborn: 2010-11-08",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0078",
                                       "children": [],
                                       "name": "Abby Lynne",
-                                      "fullName": "Abby Lynne Almeroth",
+                                      "info": "Abby Lynne Almeroth\nborn: 2012-04-04",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "Kevin + Kelly",
+                                  "info": "Kevin Almeroth born 1970-10-10\nKelly Bret born 1970-11-18\nchildren: 2",
                                   "value": 40
                                 }
                               ],
                               "name": "Kevin",
-                              "fullName": "Kevin Almeroth",
+                              "info": "Kevin Almeroth\nborn: 1970-10-10",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 20
                             }
                           ],
                           "name": "Richard D + Constance",
+                          "info": "Richard D Almeroth born 1941-06-20\nConstance Almeroth born 1941-03-15\nchildren: 3",
                           "value": 60
                         }
                       ],
                       "name": "Richard D",
-                      "fullName": "Richard D Almeroth",
+                      "info": "Richard D Almeroth\nborn: 1941-06-20",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 20
                     },
                     {
@@ -324,45 +413,59 @@
                                       "id": "BI0048",
                                       "children": [],
                                       "name": "Cole James",
-                                      "fullName": "Cole James Almeroth",
+                                      "info": "Cole James Almeroth\nborn: 2004-11-04",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0049",
                                       "children": [],
                                       "name": "Shelby",
-                                      "fullName": "Shelby Almeroth",
+                                      "info": "Shelby Almeroth\nborn: 2013-05-28",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "Loren James + April",
+                                  "info": "Loren James Almeroth born 1975-11-19\nApril Atkins born undefined\nchildren: 2",
                                   "value": 40
                                 }
                               ],
                               "name": "Loren James",
-                              "fullName": "Loren James Almeroth",
+                              "info": "Loren James Almeroth\nborn: 1975-11-19",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 20
                             },
                             {
                               "id": "BI0050",
                               "children": [],
                               "name": "Jaime Adeline",
-                              "fullName": "Jaime Adeline Almeroth",
+                              "info": "Jaime Adeline Almeroth\nborn: 1983-11-16",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             }
                           ],
                           "name": "James Andrew + Nancy A.",
+                          "info": "James Andrew Almeroth born 1950-03-23\nNancy A. Gracie born undefined\nchildren: 2",
                           "value": 40
+                        },
+                        {
+                          "id": "BF0017",
+                          "children": [],
+                          "name": "James Andrew + Marian",
+                          "info": "James Andrew Almeroth born 1950-03-23\nMarian Hall born undefined\nchildren: 0",
+                          "value": 0
                         }
                       ],
                       "name": "James Andrew",
-                      "fullName": "James Andrew Almeroth",
+                      "info": "James Andrew Almeroth\nborn: 1950-03-23",
                       "generation": 3,
-                      "value": 20
+                      "color": "#9ea300",
+                      "value": 40
                     },
                     {
                       "id": "BI0009",
@@ -380,27 +483,48 @@
                                       "id": "BI0041",
                                       "children": [],
                                       "name": "Morgan Elizabeth",
-                                      "fullName": "Morgan Elizabeth Lesiw",
+                                      "info": "Morgan Elizabeth Lesiw\nborn: 2004-12-07",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0042",
                                       "children": [],
                                       "name": "Gavin John",
-                                      "fullName": "Gavin John Lesiw",
+                                      "info": "Gavin John Lesiw\nborn: 2008-11-04",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "Richard Todd + Lisa Jill",
+                                  "info": "Richard Todd Lesiw born 1978-08-02\nLisa Jill Lamon born 1979-08-06\nchildren: 2",
                                   "value": 40
+                                },
+                                {
+                                  "id": "BF0014",
+                                  "children": [
+                                    {
+                                      "id": "BI0044",
+                                      "children": [],
+                                      "name": "Skylar Kacey",
+                                      "info": "Skylar Kacey Cronkhite\nborn: 2017-08-02",
+                                      "generation": 5,
+                                      "color": "#ff7070",
+                                      "value": 0
+                                    }
+                                  ],
+                                  "name": "Landon Kevin + Lisa Jill",
+                                  "info": "Landon Kevin Cronkhite born 1984-09-19\nLisa Jill Lamon born 1979-08-06\nchildren: 1",
+                                  "value": 20
                                 }
                               ],
                               "name": "Lisa Jill",
-                              "fullName": "Lisa Jill Lamon",
+                              "info": "Lisa Jill Lamon\nborn: 1979-08-06",
                               "generation": 4,
-                              "value": 20
+                              "color": "#f58700",
+                              "value": 40
                             },
                             {
                               "id": "BI0019",
@@ -412,46 +536,54 @@
                                       "id": "BI0038",
                                       "children": [],
                                       "name": "Kyle Meyer",
-                                      "fullName": "Kyle Meyer Graham",
+                                      "info": "Kyle Meyer Graham\nborn: 2002-12-04",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0039",
                                       "children": [],
                                       "name": "Haley Marie",
-                                      "fullName": "Haley Marie Graham",
+                                      "info": "Haley Marie Graham\nborn: 2005-07-01",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "Brian Keith + Jennifer Marie",
+                                  "info": "Brian Keith Graham born 1975-11-19\nJennifer Marie Lamon born 1977-02-17\nchildren: 2",
                                   "value": 40
                                 }
                               ],
                               "name": "Jennifer Marie",
-                              "fullName": "Jennifer Marie Lamon",
+                              "info": "Jennifer Marie Lamon\nborn: 1977-02-17",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 20
                             }
                           ],
                           "name": "David Larry + Deborah",
+                          "info": "David Larry Lamon born 1954-02-13\nDeborah Almeroth born 1954-04-10\nchildren: 2",
                           "value": 40
                         }
                       ],
                       "name": "Deborah",
-                      "fullName": "Deborah Almeroth",
+                      "info": "Deborah Almeroth\nborn: 1954-04-10",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 20
                     }
                   ],
                   "name": "Robert Henry + Elizabeth L.",
+                  "info": "Robert Henry Almeroth born 1911-08-27\nElizabeth L. Hartmann born 1913-12-18\nchildren: 5",
                   "value": 100
                 }
               ],
               "name": "Robert Henry",
-              "fullName": "Robert Henry Almeroth",
+              "info": "Robert Henry Almeroth\nborn: 1911-08-27",
               "generation": 2,
+              "color": "#08AF2C",
               "value": 20
             },
             {
@@ -476,52 +608,60 @@
                                       "id": "BI0064",
                                       "children": [],
                                       "name": "Jack",
-                                      "fullName": "Jack Almeroth",
+                                      "info": "Jack Almeroth\nborn: 2010",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0065",
                                       "children": [],
                                       "name": "Alex",
-                                      "fullName": "Alex Almeroth",
+                                      "info": "Alex Almeroth\nborn: 2012",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "Peter James + Michelle",
+                                  "info": "Peter James Almeroth born 1988\nMichelle born undefined\nchildren: 2",
                                   "value": 40
                                 }
                               ],
                               "name": "Peter James",
-                              "fullName": "Peter James Almeroth",
+                              "info": "Peter James Almeroth\nborn: 1988",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 20
                             },
                             {
                               "id": "BI0066",
                               "children": [],
                               "name": "Beth",
-                              "fullName": "Beth Almeroth",
+                              "info": "Beth Almeroth\nborn: 1990",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             },
                             {
                               "id": "BI0067",
                               "children": [],
                               "name": "Danny",
-                              "fullName": "Danny Almeroth",
+                              "info": "Danny Almeroth\nborn: 1993",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             }
                           ],
                           "name": "Peter Jospeh + undefined",
+                          "info": "Peter Jospeh Almeroth born 1950-11-18\nundefined born undefined\nchildren: 3",
                           "value": 60
                         }
                       ],
                       "name": "Peter Jospeh",
-                      "fullName": "Peter Jospeh Almeroth",
+                      "info": "Peter Jospeh Almeroth\nborn: 1950-11-18",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 20
                     },
                     {
@@ -534,36 +674,42 @@
                               "id": "BI0069",
                               "children": [],
                               "name": "Lori",
-                              "fullName": "Lori",
+                              "info": "Lori\nborn: undefined",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             },
                             {
                               "id": "BI0070",
                               "children": [],
                               "name": "Lisa",
-                              "fullName": "Lisa",
+                              "info": "Lisa\nborn: undefined",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             }
                           ],
                           "name": "Randolph + Kathryn",
+                          "info": "Randolph Hendricks born 1951\nKathryn Almeroth born undefined\nchildren: 2",
                           "value": 40
                         }
                       ],
                       "name": "Kathryn",
-                      "fullName": "Kathryn Almeroth",
+                      "info": "Kathryn Almeroth\nborn: undefined",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 20
                     }
                   ],
                   "name": "Peter James + Marion",
+                  "info": "Peter James Almeroth born 1909-12-06\nMarion Almeroth born undefined\nchildren: 2",
                   "value": 40
                 }
               ],
               "name": "Peter James",
-              "fullName": "Peter James Almeroth",
+              "info": "Peter James Almeroth\nborn: 1909-12-06",
               "generation": 2,
+              "color": "#08AF2C",
               "value": 20
             },
             {
@@ -576,8 +722,9 @@
                       "id": "BI0024",
                       "children": [],
                       "name": "Peter Joseph",
-                      "fullName": "Peter Joseph Almeroth",
+                      "info": "Peter Joseph Almeroth\nborn: 1949-01-14",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 0
                     },
                     {
@@ -596,26 +743,30 @@
                                       "id": "BI0142",
                                       "children": [],
                                       "name": "Benton John",
-                                      "fullName": "Benton John Gilligan",
+                                      "info": "Benton John Gilligan\nborn: 2017-09-16",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "James Kevin + Frances Dwyer",
+                                  "info": "James Kevin Gilligan born 1978-02-21\nFrances Dwyer O'Donnell born 1979-10-22\nchildren: 1",
                                   "value": 20
                                 }
                               ],
                               "name": "Frances Dwyer",
-                              "fullName": "Frances Dwyer O'Donnell",
+                              "info": "Frances Dwyer O'Donnell\nborn: 1979-10-22",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 20
                             },
                             {
                               "id": "BI0139",
                               "children": [],
                               "name": "Terrance Charles",
-                              "fullName": "Terrance Charles O'Donnell",
+                              "info": "Terrance Charles O'Donnell\nborn: 1982-11-10",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             },
                             {
@@ -628,28 +779,33 @@
                                       "id": "BI0144",
                                       "children": [],
                                       "name": "John Richard",
-                                      "fullName": "John Richard O'Donnell",
+                                      "info": "John Richard O'Donnell\nborn: 1987-09-24",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "Joseph Charles + Charlotte Elise",
+                                  "info": "Joseph Charles O'Donnell born 1987-05-13\nCharlotte Elise Erikson born 1987-05-13\nchildren: 1",
                                   "value": 20
                                 }
                               ],
                               "name": "Joseph Charles",
-                              "fullName": "Joseph Charles O'Donnell",
+                              "info": "Joseph Charles O'Donnell\nborn: 1987-05-13",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 20
                             }
                           ],
                           "name": "John James + Jeanne Christine",
+                          "info": "John James O'Donnell born 1947-09-26\nJeanne Christine Almeroth born 1947-09-30\nchildren: 3",
                           "value": 60
                         }
                       ],
                       "name": "Jeanne Christine",
-                      "fullName": "Jeanne Christine Almeroth",
+                      "info": "Jeanne Christine Almeroth\nborn: 1947-09-30",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 20
                     },
                     {
@@ -662,58 +818,66 @@
                               "id": "BI0116",
                               "children": [],
                               "name": "Mia Kathleen",
-                              "fullName": "Mia Kathleen Almeroth",
+                              "info": "Mia Kathleen Almeroth\nborn: 1988-06-17",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             },
                             {
                               "id": "BI0117",
                               "children": [],
                               "name": "Vincent Michael",
-                              "fullName": "Vincent Michael Almeroth",
+                              "info": "Vincent Michael Almeroth\nborn: 1989-08-08",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             },
                             {
                               "id": "BI0118",
                               "children": [],
                               "name": "Charles Jerome",
-                              "fullName": "Charles Jerome Almeroth",
+                              "info": "Charles Jerome Almeroth\nborn: 1991-06-27",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             },
                             {
                               "id": "BI0119",
                               "children": [],
                               "name": "Angeline Clare",
-                              "fullName": "Angeline Clare Almeroth",
+                              "info": "Angeline Clare Almeroth\nborn: 1992-12-13",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             },
                             {
                               "id": "BI0120",
                               "children": [],
                               "name": "Sophia Marie",
-                              "fullName": "Sophia Marie Almeroth",
+                              "info": "Sophia Marie Almeroth\nborn: 1995-08-11",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             },
                             {
                               "id": "BI0121",
                               "children": [],
                               "name": "Vito",
-                              "fullName": "Vito Salm",
+                              "info": "Vito Salm\nborn: 1980-07",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             }
                           ],
                           "name": "David Michael + Lisa",
+                          "info": "David Michael Almeroth born 1943-01-31\nLisa Terranova born 1960-02-19\nchildren: 6",
                           "value": 120
                         }
                       ],
                       "name": "David Michael",
-                      "fullName": "David Michael Almeroth",
+                      "info": "David Michael Almeroth\nborn: 1943-01-31",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 20
                     },
                     {
@@ -732,26 +896,30 @@
                                       "id": "BI0127",
                                       "children": [],
                                       "name": "Charlie",
-                                      "fullName": "Charlie Kilmer",
+                                      "info": "Charlie Kilmer\nborn: undefined",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0128",
                                       "children": [],
                                       "name": "Nick",
-                                      "fullName": "Nick Kilmer",
+                                      "info": "Nick Kilmer\nborn: undefined",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "Kevin Charles + Kimberly",
+                                  "info": "Kevin Charles Kilmer born 1969-07-16\nKimberly Kilmer born undefined\nchildren: 2",
                                   "value": 40
                                 }
                               ],
                               "name": "Kevin Charles",
-                              "fullName": "Kevin Charles Kilmer",
+                              "info": "Kevin Charles Kilmer\nborn: 1969-07-16",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 20
                             },
                             {
@@ -764,52 +932,60 @@
                                       "id": "BI0130",
                                       "children": [],
                                       "name": "Nora",
-                                      "fullName": "Nora Flood",
+                                      "info": "Nora Flood\nborn: undefined",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0131",
                                       "children": [],
                                       "name": "Brendan",
-                                      "fullName": "Brendan Flood",
+                                      "info": "Brendan Flood\nborn: undefined",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     },
                                     {
                                       "id": "BI0132",
                                       "children": [],
                                       "name": "Kathleen",
-                                      "fullName": "Kathleen Flood",
+                                      "info": "Kathleen Flood\nborn: undefined",
                                       "generation": 5,
+                                      "color": "#ff7070",
                                       "value": 0
                                     }
                                   ],
                                   "name": "Brian + Molly Regan",
+                                  "info": "Brian Flood born undefined\nMolly Regan Flood born 1975-07-02\nchildren: 3",
                                   "value": 60
                                 }
                               ],
                               "name": "Molly Regan",
-                              "fullName": "Molly Regan Flood",
+                              "info": "Molly Regan Flood\nborn: 1975-07-02",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 20
                             },
                             {
                               "id": "BI0125",
                               "children": [],
                               "name": "Brian Thomas",
-                              "fullName": "Brian Thomas Kilmer",
+                              "info": "Brian Thomas Kilmer\nborn: 1977-05-21",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             }
                           ],
                           "name": "James Michael + Susan Elizabeth",
+                          "info": "James Michael Kilmer born 1941-12-29\nSusan Elizabeth Almeroth born 1944-05-12\nchildren: 3",
                           "value": 60
                         }
                       ],
                       "name": "Susan Elizabeth",
-                      "fullName": "Susan Elizabeth Almeroth",
+                      "info": "Susan Elizabeth Almeroth\nborn: 1944-05-12",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 20
                     },
                     {
@@ -822,36 +998,49 @@
                               "id": "BI0146",
                               "children": [],
                               "name": "Conor Jerome",
-                              "fullName": "Conor Jerome Almeroth",
+                              "info": "Conor Jerome Almeroth\nborn: 1990-11-05",
                               "generation": 4,
+                              "color": "#f58700",
                               "value": 0
                             }
                           ],
                           "name": "Christopher Gerard + Susan",
+                          "info": "Christopher Gerard Almeroth born 1957-03-25\nSusan Hu born 1958-02-27\nchildren: 1",
                           "value": 20
+                        },
+                        {
+                          "id": "BF0050",
+                          "children": [],
+                          "name": "Christopher Gerard + Cristina",
+                          "info": "Christopher Gerard Almeroth born 1957-03-25\nCristina Goldbaum born 1967-04-26\nchildren: 0",
+                          "value": 0
                         }
                       ],
                       "name": "Christopher Gerard",
-                      "fullName": "Christopher Gerard Almeroth",
+                      "info": "Christopher Gerard Almeroth\nborn: 1957-03-25",
                       "generation": 3,
-                      "value": 20
+                      "color": "#9ea300",
+                      "value": 40
                     },
                     {
                       "id": "BI0060",
                       "children": [],
                       "name": "Michael Andrew",
-                      "fullName": "Michael Andrew Almeroth",
+                      "info": "Michael Andrew Almeroth\nborn: 1960-03-04",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 0
                     }
                   ],
                   "name": "Charles Jerome + Jeanne Marie",
+                  "info": "Charles Jerome Almeroth born 1916-06-10\nJeanne Marie Savage born 1917-11-30\nchildren: 6",
                   "value": 120
                 }
               ],
               "name": "Charles Jerome",
-              "fullName": "Charles Jerome Almeroth",
+              "info": "Charles Jerome Almeroth\nborn: 1916-06-10",
               "generation": 2,
+              "color": "#08AF2C",
               "value": 20
             },
             {
@@ -864,28 +1053,33 @@
                       "id": "BI0133",
                       "children": [],
                       "name": "Billy",
-                      "fullName": "Billy Ryan",
+                      "info": "Billy Ryan\nborn: 1933",
                       "generation": 3,
+                      "color": "#9ea300",
                       "value": 0
                     }
                   ],
                   "name": "William + Ann",
+                  "info": "William Ryan born undefined\nAnn Almeroth born 1907-05-29\nchildren: 1",
                   "value": 20
                 }
               ],
               "name": "Ann",
-              "fullName": "Ann Almeroth",
+              "info": "Ann Almeroth\nborn: 1907-05-29",
               "generation": 2,
+              "color": "#08AF2C",
               "value": 20
             }
           ],
           "name": "Peter James + Elizabeth Frances",
+          "info": "Peter James Almeroth born 1872-03-10\nElizabeth Frances Dwyer born 1883-11-12\nchildren: 4",
           "value": 80
         }
       ],
       "name": "Peter James",
-      "fullName": "Peter James Almeroth",
+      "info": "Peter James Almeroth\nborn: 1872-03-10",
       "generation": 1,
+      "color": "#5c9aff",
       "value": 20
     },
     {
@@ -895,20 +1089,23 @@
           "id": "BF0038",
           "children": [],
           "name": "George + Louise",
+          "info": "George Almeroth born 1868\nLouise Schmidt born undefined\nchildren: 0",
           "value": 0
         }
       ],
       "name": "George",
-      "fullName": "George Almeroth",
+      "info": "George Almeroth\nborn: 1868",
       "generation": 1,
+      "color": "#5c9aff",
       "value": 20
     },
     {
       "id": "BI0105",
       "children": [],
       "name": "Leonhard",
-      "fullName": "Leonhard Almeroth",
+      "info": "Leonhard Almeroth\nborn: 1869-11",
       "generation": 1,
+      "color": "#5c9aff",
       "value": 0
     },
     {
@@ -921,53 +1118,61 @@
               "id": "BI0136",
               "children": [],
               "name": "Mary",
-              "fullName": "Mary Allmeroth",
+              "info": "Mary Allmeroth\nborn: 1901-02-28",
               "generation": 2,
+              "color": "#08AF2C",
               "value": 0
             },
             {
               "id": "BI0137",
               "children": [],
               "name": "Edith G",
-              "fullName": "Edith G Almeroth",
+              "info": "Edith G Almeroth\nborn: 1903",
               "generation": 2,
+              "color": "#08AF2C",
               "value": 0
             }
           ],
           "name": "John + Mary",
+          "info": "John Allmeroth born 1874-02-02\nMary Almeroth born 1870\nchildren: 2",
           "value": 40
         }
       ],
       "name": "John",
-      "fullName": "John Allmeroth",
+      "info": "John Allmeroth\nborn: 1874-02-02",
       "generation": 1,
+      "color": "#5c9aff",
       "value": 20
     },
     {
       "id": "BI0107",
       "children": [],
       "name": "Elizabeth",
-      "fullName": "Elizabeth Almeroth",
+      "info": "Elizabeth Almeroth\nborn: 1876",
       "generation": 1,
+      "color": "#5c9aff",
       "value": 0
     },
     {
       "id": "BI0108",
       "children": [],
       "name": "Anna K",
-      "fullName": "Anna K Almeroth",
+      "info": "Anna K Almeroth\nborn: 1875-12",
       "generation": 1,
+      "color": "#5c9aff",
       "value": 0
     },
     {
       "id": "BI0109",
       "children": [],
       "name": "Martha M",
-      "fullName": "Martha M Almeroth",
+      "info": "Martha M Almeroth\nborn: 1880-12",
       "generation": 1,
+      "color": "#5c9aff",
       "value": 0
     }
   ],
   "name": "August + Johanna",
+  "info": "August Allmeroth born 1837-05\nJohanna Schmidt born 1843-03\nchildren: 7",
   "value": 140
 }

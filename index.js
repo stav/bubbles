@@ -14,6 +14,7 @@ series.dataSource.url = 'data.json'
 // Data fields
 series.dataFields.id = 'id'
 series.dataFields.name = 'name'
+series.dataFields.color = 'color'
 series.dataFields.value = 'value'
 series.dataFields.linkWith = 'link'
 series.dataFields.children = 'children'
@@ -26,5 +27,6 @@ series.maxRadius = 100
 // Nodes
 series.nodes.template.expandAll = false
 series.nodes.template.label.text = '{id}\n{name}\n{generation}'
-series.nodes.template.tooltipText = "{fullName}: {value}"
+series.nodes.template.tooltipText = "{info}"
 series.nodes.template.fillOpacity = 1
+series.colors.list = [am4core.color("#9785ff")]
